@@ -1,0 +1,21 @@
+.estilizar-conteiner {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: rgb(145, 145, 145);
+    width: 300px;
+    padding: 20px;
+    border-radius: 8px;
+    height: auto;
+    margin: 20px;
+    color: white;
+}
+
+span {
+    text-align: end;
+    padding-top: 40px;
+}
+
+.texto-lista{
+    display: none;
+}
